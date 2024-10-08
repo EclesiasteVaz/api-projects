@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Super Teclas",
+        "category": "mobile",
+        "techs": "Flutter",
+        "descritpion": "É um jogo de escrita de palavras e frases contra relógio, neste jogo o jogador é submetido há um ambiente virtual de jogos, em que lhe serão enviadas palavras e frases e o mesmo deverá escrever as palavras antes que o tempo acabe. Jogo totalmente offline e para android...",
+        "image": "https://eclesiastevaz.github.io/superteclas/src/assets/images/app_icon.png",
+        "link" : "https://eclesiastevaz.github.io/superteclas/"
+    },
+    {
+        "name": "Projeto redesign do site da Africell",
+        "category": "web",  
+        "techs": "HTML5,CSS3 e JS",
+        "descritpion": "Um updrage ao site da africell, que consiste em dar uma melhor UI para o site deles, confira para ver como ficou...",
+        "image":"https://scontent.flad5-1.fna.fbcdn.net/v/t39.30808-6/456439187_476772545156034_8515825515932865511_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG6SFqrZUamHYWFITHYkTANqykXs9Ed_NyrKRez0R383IwcHvUIFFxn3uKS2T_dLMdgRf4kN17KIyACjFVcgWFm&_nc_ohc=2t5KOjlzvbsQ7kNvgE5yZPn&_nc_zt=23&_nc_ht=scontent.flad5-1.fna&_nc_gid=AHxeBG4eCAoV5DLKRbjPU6A&oh=00_AYDRduD-uO_JhyXeCi9lIEFIeSKlZJSkIVD6KvB3JjdZFg&oe=670ABDA8",
+        "link":"https://eclesiastevaz.github.io/africell/"
+    }, 
+    {
+        "name":"Carros Caros",
+        "category": "web",
+        "techs":"HTML5,CSS3 e JS",
+        "descritpion": "Um Projecto para atender um trabalho escolar, mas ficou otimo de um olhada",
+        "image": "https://eclesiastevaz.github.io/carroscaros/src/images/car-white-blue-with-bolhas.svg",
+        "link": "https://eclesiastevaz.github.io/carroscaros/"
+    }
+]
